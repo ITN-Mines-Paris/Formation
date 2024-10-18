@@ -65,6 +65,14 @@ Thématiques
 
   - Plan de gestion des données
 
+Blocs de formation (à compléter/affiner/sélectionner) :
+
+  - Qu'est-ce qu'un projet logiciel ? (forme ?)
+
+  - Enregistrer les progrès : le rôle de git (forme ?)
+
+  - ...
+
 ### Valorisation & Dissémination
 
   - Modèles économiques ?
@@ -76,6 +84,14 @@ Thématiques
   - DOI, ORCID, ROR
 
   - Licences, brevets, etc.
+
+Blocs de formation (à compléter/affiner/sélectionner) :
+
+  - "It works on my machine!" (faciliter la réutilisation des projets logiciels). (forme : démo en live et/ou participatif)
+
+  - Les bonnes pratiques d'utilisation des forges logicielles (démo / étude de cas ?).
+
+  - ...
 
 ### Médiation Scientifique/Culturelle & Communication
 
@@ -89,7 +105,7 @@ Communication auprès du grand public, d'un public averti, de décideurs, etc.
 
   - Supports: blogs, etc.
 
-Idées de blocs de formation :
+Blocs de formation (à compléter/affiner/sélectionner) :
 
   - Un retour d'expérience sur une action à destination du grand public ? (présentation et/ou échanges ?)
 
@@ -98,6 +114,8 @@ Idées de blocs de formation :
   - Un media moderne de communication scientifique : les "notebooks" (quelle forme ? démo ? atelier ?)
 
   - Etude de la communication [Nerfies](https://nerfies.github.io/) (étude de cas collaborative)
+
+  - ...
 
 
 Agenda
