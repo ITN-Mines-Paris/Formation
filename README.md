@@ -11,6 +11,8 @@ Progrès & Actions
   - [x] 📅 10 octobre 2024 : réunion Amélie + Sandrine + Sébastien B. pour 
     préciser la nature de l'accompagnement.
 
+-----
+
   - [x] Sébastien : envoi sujets de thèses (dispo.) à Amélie & Sandrine
 
   - [ ] Synchronisation avec ISSME. 
@@ -23,6 +25,8 @@ Progrès & Actions
         Se positionner juste après pour éviter de multiplier les déplacements ?
 
       - [ ] Contenu de la journée de formation ISSME ? (éviter redondances)
+
+-----
 
   - [x] 📅 17 octobre 2024 : début construction feuille de route
     (accent sur la plate-forme à utiliser : [Markdown] + [GitHub]).
