@@ -5,19 +5,13 @@ Accompagnement des doctorants
 Progrès & Actions
 --------------------------------------------------------------------------------
 
-  - [x] 📅 15 février 2024 : description de l'accompagnement des doctorants
-    ITN dans [l'appel à projet](https://itn.dev/actualites/contrats-doctoraux-2024/)
+**TODO:**
 
-  - [x] 📅 10 octobre 2024 : réunion Amélie + Sandrine + Sébastien B. pour 
-    préciser la nature de l'accompagnement.
-
------
-
-  - [x] Sébastien : envoi sujets de thèses (dispo.) à Amélie & Sandrine
+  - [x] @boisgera : envoi sujets de thèses (dispo.) à Amélie & Sandrine
 
   - [ ] Synchronisation avec ISSME. 
   
-    Tous les doctorants concernés sont affiliés à l'école doctorale [ISMME]?
+    Tous les doctorants concernés sont affiliés à l'école doctorale [ISMME]? **Non!**
 
       - [ ] Contacter Marie-Hélène Berger
 
@@ -25,8 +19,16 @@ Progrès & Actions
         Se positionner juste après pour éviter de multiplier les déplacements ?
 
       - [ ] Contenu de la journée de formation ISSME ? (éviter redondances)
+       
+  - [ ] Associer Cassandre au volet "Médiation" ? 
 
 -----
+
+  - [x] 📅 15 février 2024 : description de l'accompagnement des doctorants
+    ITN dans [l'appel à projet](https://itn.dev/actualites/contrats-doctoraux-2024/)
+
+  - [x] 📅 10 octobre 2024 : réunion Amélie + Sandrine + Sébastien B. pour 
+    préciser la nature de l'accompagnement.
 
   - [x] 📅 17 octobre 2024 : début construction feuille de route
     (accent sur la plate-forme à utiliser : [Markdown] + [GitHub]).
@@ -77,6 +79,8 @@ Thématiques
 
 ### Médiation Scientifique/Culturelle & Communication
 
+Communication auprès du grand public, d'un public averti, de décideurs, etc.
+
   - Accès grand public,
 
   - Communication & Mécénat
@@ -84,6 +88,16 @@ Thématiques
   - Bénéfice sociétal, information des citoyens
 
   - Supports: blogs, etc.
+
+Idées de blocs de formation :
+
+  - Un retour d'expérience sur une action à destination du grand public ? (présentation et/ou échanges ?)
+
+  - Expliquer son sujet de thèse à des noms specialiste (forme pratique : [ELI5](https://en.wiktionary.org/wiki/ELI5) ou "expliquer à ma grand-mère" ou "téléphone arabe")
+
+  - Un media moderne de communication scientifique : les "notebooks" (quelle forme ? démo ? atelier ?)
+
+  - Etude de la communication [Nerfies](https://nerfies.github.io/) (étude de cas collaborative)
 
 
 Agenda
