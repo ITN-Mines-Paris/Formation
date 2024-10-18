@@ -17,17 +17,17 @@ Progrès & Actions
   
     Tous les doctorants concernés sont affiliés à l'école doctorale [ISMME]?
 
-      - Contacter Marie-Hélène Berger
+      - [ ] Contacter Marie-Hélène Berger
 
-      - S'enquérir des dates de la journée 1A ISSME (a priori janvier ou février)  
+      - [ ] S'enquérir des dates de la journée 1A ISSME (a priori janvier ou février)  
         Se positionner juste après pour éviter de multiplier les déplacements ?
 
-      - Contenu de la journée de formation ISSME ? (éviter redondances)
+      - [ ] Contenu de la journée de formation ISSME ? (éviter redondances)
 
+  - [x] 📅 17 octobre 2024 : début construction feuille de route
+    (accent sur la plate-forme à utiliser : [Markdown] + [GitHub]).
 
-  - [ ] 📅 17 octobre 2024 : **🚧 TODO.** début construction feuille de route
-    (🎉 avec [StackEdit], [Markdown] et [GitHub] pour épicer les choses !).
-
+  - [ ] 📅 6 novembre 2014, 10h30 en visio: prochaine réunion avec Amélie M., Sandrine et Sébastien B.
 
   - [ ] 📅 ~ Mi-novembre (?). Production d'une feuille de route.
 
