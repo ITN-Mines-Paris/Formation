@@ -1,7 +1,5 @@
 # Objectifs pédagogiques
 
-**TODO**
-
 A l'issu de la formation, les doctorants doivent être capables de..
 
 Science ouverte
@@ -12,7 +10,7 @@ Science ouverte
 
 FAIR
 -----
-- ennoncer les principes FAIR
+- énoncer les principes FAIR
 - identifier les outils pour satisfaire les principes FAIR (PID, etc..)
 
 Produits de la recherche
