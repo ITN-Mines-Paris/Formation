@@ -12,6 +12,8 @@ FAIR
 -----
 - énoncer les principes FAIR
 - identifier les outils pour satisfaire les principes FAIR (PID, etc..)
+- identifier les enjeux en matière d'intégrité scientifique
+- contacter les référents intégrité scientifique
 
 Produits de la recherche
 -------------------------
