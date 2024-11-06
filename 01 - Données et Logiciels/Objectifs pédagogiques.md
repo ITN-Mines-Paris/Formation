@@ -22,7 +22,7 @@ Produits de la recherche
 
 et aussi (à classer)
 -----------------------
-- rédiger un DMP initial
+- rédiger un DMP initial (éléments du dmp, 
 - identifier les outils métier
 - contacter les personnes et services ressource (dpd, ris, ..)
 - trouver les informations juridiques liées à leurs productions
