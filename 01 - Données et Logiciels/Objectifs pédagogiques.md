@@ -27,6 +27,8 @@ et aussi (à classer)
 - contacter les personnes et services ressource (dpd, ris, ..)
 - trouver les informations juridiques liées à leurs productions
 
+- etc.
+
 Anatomie d'un projet logiciel:
 - préalable : exemple de projet logiciel (ex: produire un article est un projet logiciel) ?
 - classifier la nature/fonction des fichiers au sein d'un projet : documents / data / code / config ?
