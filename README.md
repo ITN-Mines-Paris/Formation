@@ -53,7 +53,7 @@ Thématiques
 
 ### Données & Logiciel
 
-  **Mise à jour !!!*
+  **Mise à jour !!!**
   
   - Anatomie d'un projet logiciel (~1h)
   - Concepts Science Ouverte / FAIR + Plan gestion données (~1h)
