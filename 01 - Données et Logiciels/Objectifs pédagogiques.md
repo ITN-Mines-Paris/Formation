@@ -26,3 +26,9 @@ et aussi (à classer)
 - identifier les outils métier
 - contacter les personnes et services ressource (dpd, ris, ..)
 - trouver les informations juridiques liées à leurs productions
+
+Anatomie d'un projet logiciel:
+- préalable : exemple de projet logiciel (ex: produire un article est un projet logiciel) ?
+- classifier la nature/fonction des fichiers au sein d'un projet : documents / data / code / config ?
+- identifier objets originaux & dérivés : sources, "build" (transformations) et artefacts (i.e. produits)
+- comprendre la nature et l'importance de l'historique & processus de développement logiciel.
