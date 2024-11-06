@@ -29,4 +29,4 @@ dilemnes si on choisit d'aborder l'intégrité scientifique
 Notes Sandrine
 -------------------
 
-source support Claire T..
+source support Claire T.. (Uhu? S.B.)
