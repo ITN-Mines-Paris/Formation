@@ -5,6 +5,8 @@ A l'issu de la formation, les doctorants doivent être capables de..
 à classer
 -----------------------
 
+~ 1h15
+
 Choisir leur modalités de publication avec relecture par les pairs (preprint, peer review classique, epi-revues, etc..) (mise en pratique SO, SSR APC)
 éviter les revues prédatrices
 Déposer dans HAL (quoi, quand, comment)
@@ -14,6 +16,8 @@ gérer leur identitié numérique
 Spécifier les modalités de signalement, diffusion et archivage de la thèse à la fin du parcours
 contacter les personnes et services ressource
 choisir la licence
+
+~ 3/4 h
 
 Savoir facilter la réutilisation de son projet logiciel:
 - exploiter les dépôts logiciels & forges logicielles (identifier l'existant & le rôle).
