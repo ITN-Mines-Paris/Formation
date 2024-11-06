@@ -115,6 +115,8 @@ Blocs de formation (à compléter/affiner/sélectionner) :
 
   - Etude de la communication [Nerfies](https://nerfies.github.io/) (étude de cas collaborative)
 
+  - Jouer à [Thing Explainer](https://en.wikipedia.org/wiki/Thing_Explainer) ? 
+
   - ...
 
 
