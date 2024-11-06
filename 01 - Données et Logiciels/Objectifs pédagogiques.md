@@ -24,4 +24,5 @@ et aussi (à classer)
 -----------------------
 - rédiger un DMP initial
 - identifier les outils métier
+- contacter les personnes et services ressource (dpd, ris, ..)
 - trouver les informations juridiques liées à leurs productions
