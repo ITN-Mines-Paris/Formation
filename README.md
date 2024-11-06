@@ -53,6 +53,13 @@ Thématiques
 
 ### Données & Logiciel
 
+  **Mise à jour !!!*
+  
+  - Anatomie d'un projet logiciel (~1h)
+  - Concepts Science Ouverte / FAIR + Plan gestion données (~1h)
+
+------
+
   - Produits de la recherche ("artefacts") : 
   
     - Logiciels (apps/libs/..., développement, dépendences, réplicabilité, etc.), 
