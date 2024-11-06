@@ -15,6 +15,11 @@ Spécifier les modalités de signalement, diffusion et archivage de la thèse à
 contacter les personnes et services ressource
 choisir la licence
 
+Savoir facilter la réutilisation de son projet logiciel:
+- exploiter les dépôts logiciels & forges logicielles (identifier l'existant & le rôle).
+- dépasser le "It works on my machine!" (version, dépendences, gestionnaires de paquetage)
+
+
 idées d'animation
 -----------------
 
