@@ -109,7 +109,7 @@ Blocs de formation (à compléter/affiner/sélectionner) :
 
   - Un retour d'expérience sur une action à destination du grand public ? (présentation et/ou échanges ?)
 
-  - Expliquer son sujet de thèse à des noms specialiste (forme pratique : [ELI5](https://en.wiktionary.org/wiki/ELI5) ou "expliquer à ma grand-mère" ou "téléphone arabe")
+  - Expliquer son sujet de thèse à des nons-specialistes (forme pratique : [ELI5](https://en.wiktionary.org/wiki/ELI5) ou "expliquer à ma grand-mère" ou "téléphone arabe")
 
   - Un media moderne de communication scientifique : les "notebooks" (quelle forme ? démo ? atelier ?)
 
