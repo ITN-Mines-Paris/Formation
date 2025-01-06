@@ -1,0 +1,2 @@
+npx --yes @marp-team/marp-cli@latest slides.md
+npx --yes @marp-team/marp-cli@latest --pdf slides.md
