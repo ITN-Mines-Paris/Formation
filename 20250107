@@ -1,7 +1,8 @@
 réunion du 7 janvier 2025
-------------------------
 
 - IA de confiance
+=====================
+
 pbque = usage raisonné de l'IA dans la recherche et dans l'enseignement?
 usages safe de l'IA => ce qui relève du brainstorming ou de la page blanche
 cela peut amener à un argumentaire, une réflexion
@@ -30,4 +31,45 @@ l'entrée n'est pas fiable mais la sortie de la recherche doit l'être
 Proposer un atelier sur cet exemple
 - état de l'art?
 - générer du code?
+
+capacité à prompting
+mais aussi
+capacité à apporter ton corpus (apporter du contexte informationnel)
+
+
+
+(faire un retour auprès des collègues de la bib)
+-------------------------------------------------
+voir le RAG
+voir vector search et vector indexing
+sur un corpus, pour retrouver info
+- mettre des critères (requetes classiques) dépend de la structure et des métadonnées
+- full text search avec ranking 
++ semantic search (proximités sémantiques, réseaux de neurones et llm) maintenant efficace.
+
+RAG utilise semantic serach dans les bdd et les refaçonne
+
+rend plus efficace le langage naturel
+
+
+notebook rech.data.gouv
+=========================
+
+
+DATA retour sur le guide
+==========================
+
+
+
+
+
+
+
+
+
+Pour une prochaine réunion
+============================
+- notebook rech.data.gouv
+- MARP ppt en .md
+
 
