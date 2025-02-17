@@ -1,0 +1,15 @@
+[project]
+authors = ["Sébastien Boisgérault <Sebastien.Boisgerault@gmail.com>"]
+channels = ["conda-forge"]
+name = "tectonic"
+platforms = ["linux-64", "win-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[dependencies]
+tectonic = ">=0.15.0,<0.16"
+python = ">=3.13.2,<3.14"
+
+[tasks]
+build = { cmd = "tectonic article.tex", inputs = ["article.tex", "references.bib"] }
+view = { cmd = "python -c \"import webbrowser; webbrowser.open('article.pdf')\"", depends-on = "build" }
+clean = "rm -rf article.pdf"
