@@ -1,1 +1,12 @@
-# auto-mpg
+# Auto-mpg
+
+Pour générer l'article au formats PDF et HTML de ce projet :
+
+1. Installez une version récente du gestionnaire de paquets [pixi].
+
+2. Ouvrez un terminal à la racine de ce repertoire 
+   (il contient un fichier `pixi.toml`).
+
+2. Tapez la commande `pixi run build`.
+
+[pixi]: https://pixi.sh/latest/
