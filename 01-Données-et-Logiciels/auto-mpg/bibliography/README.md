@@ -10,7 +10,7 @@ Pour les jeux de données :
         "URL": "https://archive.ics.uci.edu/static/public/9/data.csv"
  
   - La somme de contrôle associée et l'algorithme utilisé sont fournis
-    dans l'attribut personnalisé `checksum`, de la façon suivante :   
+    dans l'attribut personnalisé `checksum`, par exemple :   
 
         "custom": {
             "checksum": {
