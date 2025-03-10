@@ -7,7 +7,7 @@ version = "0.1.0"
 
 [tasks.clean]
 cmd = """\
-rm -rf article.pdf article.html;
+rm -rf article.pdf article.html article.tex;
 rm -rf images/*.png;
 rm -rf notebook.ipynb;
 rm -rf datasets/auto-mpg.csv;
@@ -18,7 +18,7 @@ rm -rf .pixi
 """
 
 [tasks.fetch]
-cmd = "python fetch.py"
+cmd = "python fetch.py; python check.py"
 inputs = ["datasets/fetch.py", "datasets/check.py", "references.json"]
 outputs = ["datasets/auto-mpg.csv", "datasets/auto-mpg.parquet"]
 cwd = "datasets"
@@ -37,7 +37,7 @@ depends-on = ["fetch"]
 [tasks.cog]
 cmd = "cog -P -r article.md"
 
-[tasks.build]
+[tasks.pdf]
 cmd = """\
 pandoc 
 --citeproc 
@@ -45,6 +45,20 @@ pandoc
 --bibliography=references.json
 --pdf-engine=tectonic 
 -o article.pdf 
+article.md
+"""
+inputs = ["article.md", "references.json", "images/*.png"]
+outputs = ["article.pdf"]
+depends-on = ["exec", "cog"]
+
+[tasks.latex]
+cmd = """\
+pandoc 
+--citeproc 
+--metadata link-citations=true
+--bibliography=references.json
+--standalone 
+-o article.tex 
 article.md
 """
 inputs = ["article.md", "references.json", "images/*.png"]
@@ -64,8 +78,8 @@ inputs = ["article.md", "references.json", "images/*.png"]
 outputs = ["article.pdf"]
 depends-on = ["exec", "cog"]
 
-[tasks.all]
-depends-on = ["build", "html"]
+[tasks.build]
+depends-on = ["pdf", "html", "latex"]
 
 [dependencies]
 python = ">=3.13.2,<3.14"

@@ -18,3 +18,4 @@ images/*.png
 notebook.ipynb
 *.html
 *.pdf
+*.tex
