@@ -1,48 +1,36 @@
-Données et Logiciels
-====================
+# Objectifs pédagogiques
 
-Je tape du texte ...
-et je continue
+A l'issu de la formation, les doctorants doivent être capables de..
 
-Nouveau Paragraphe. *italique* ou **gras**.
+Science ouverte
+---------------
+- expliquer les grands principes de la science ouverte
+- situer leurs pratiques métier dans l'écosystème de la science ouverte
+- 
 
+FAIR
+-----
+- énoncer les principes FAIR
+- identifier les outils pour satisfaire les principes FAIR (PID, etc..)
+- identifier les enjeux en matière d'intégrité scientifique
+- contacter les référents intégrité scientifique
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-
-Je veux référencer le site [du journal le Monde] dans cette ligne.
-
-...
-
-
-[du journal le Monde]: https://www.lemonde.fr
+Produits de la recherche
+-------------------------
+- identifier et décrire les produits de la recherche qu'ils vont produire lors du projet
 
 
-Listes:
+et aussi (à classer)
+-----------------------
+- rédiger un DMP initial (éléments du dmp, 
+- identifier les outils métier
+- contacter les personnes et services ressource (dpd, ris, ..)
+- trouver les informations juridiques liées à leurs productions
 
-- Un élément
-- Deuxième élement hdsdkjshdsjkdhsdsdhs
-  ksjdklsjdklsjdklsdjsldks dsjkdljsdksjdskdlsjdklsdjs
-  jdskldjskdsjld
-- et de trois
+- etc.
 
-1. skjdksjdlsjd
-2. jsjdjsdhsjdshsjd
-3. <djlsdjdksjdskl
-    
-- [ ] Task 1
-- [x] Task 2
-- [ ] Task 3 
-
-# Données et Logiciels
-
-Sous-section
-------------
-
-## Sous-section
-
-### Sous-sous section
+Anatomie d'un projet logiciel:
+- préalable : exemple de projet logiciel (ex: produire un article est un projet logiciel) ?
+- classifier la nature/fonction des fichiers au sein d'un projet : documents / data / code / config ?
+- identifier objets originaux & dérivés : sources, "build" (transformations) et artefacts (i.e. produits)
+- comprendre la nature et l'importance de l'historique & processus de développement logiciel.
