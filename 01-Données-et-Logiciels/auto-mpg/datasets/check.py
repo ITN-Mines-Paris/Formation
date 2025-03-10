@@ -3,7 +3,7 @@ import hashlib
 import json
 
 # Get the dataset checksum info from the references.json file
-with open("../references.json", encoding="utf-8") as references:
+with open("../bibliography/references.json", encoding="utf-8") as references:
     bibliography = json.load(references)
     for item in bibliography:
         if item["id"] == "auto_mpg_9":

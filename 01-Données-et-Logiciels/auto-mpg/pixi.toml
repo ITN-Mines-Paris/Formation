@@ -19,13 +19,13 @@ rm -rf .pixi
 
 [tasks.fetch]
 cmd = "python fetch.py; python check.py"
-inputs = ["datasets/fetch.py", "datasets/check.py", "references.json"]
+inputs = ["datasets/fetch.py", "datasets/check.py", "bibliographyreferences.json"]
 outputs = ["datasets/auto-mpg.csv", "datasets/auto-mpg.parquet"]
 cwd = "datasets"
 
 [tasks.check]
 cmd = "python check.py"
-inputs = ["datasets/auto-mpg.csv", "references.json"]
+inputs = ["datasets/auto-mpg.csv", "bibliography/references.json"]
 cwd = "datasets"
 
 [tasks.exec]
@@ -42,12 +42,12 @@ cmd = """\
 pandoc 
 --citeproc 
 --metadata link-citations=true
---bibliography=references.json
+--bibliography=bibliography/references.json
 --pdf-engine=tectonic 
 -o article.pdf 
 article.md
 """
-inputs = ["article.md", "references.json", "images/*.png"]
+inputs = ["article.md", "bibliography/references.json", "images/*.png"]
 outputs = ["article.pdf"]
 depends-on = ["exec", "cog"]
 
@@ -56,12 +56,12 @@ cmd = """\
 pandoc 
 --citeproc 
 --metadata link-citations=true
---bibliography=references.json
+--bibliography=bibliography/references.json
 --standalone 
 -o article.tex 
 article.md
 """
-inputs = ["article.md", "references.json", "images/*.png"]
+inputs = ["article.md", "bibliography/references.json", "images/*.png"]
 outputs = ["article.pdf"]
 depends-on = ["exec", "cog"]
 
@@ -70,11 +70,11 @@ cmd = """\
 pandoc 
 --standalone 
 --citeproc 
---bibliography=references.json
+--bibliography=bibliography/references.json
 -o article.html 
 article.md
 """
-inputs = ["article.md", "references.json", "images/*.png"]
+inputs = ["article.md", "bibliography/references.json", "images/*.png"]
 outputs = ["article.pdf"]
 depends-on = ["exec", "cog"]
 

@@ -1,4 +1,2 @@
-- document the DOI fiasco?
-- clean-up the column types?
-- get a checksum of the csv file?
-- export something less shitty than csv? Parquet?
+
+ℹ️ La bibliographie est dans le format [CSL-JSON](https://github.com/citation-style-language/schema?tab=readme-ov-file#csl-json-schema).
