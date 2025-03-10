@@ -1,11 +1,9 @@
 
 # Jeux de Données
 
-Tapez `pixi run fetch` pour télécharger le jeu de données utilisé dans ce projet.
+Tapez `pixi run fetch` pour :
 
-Cette commande va:
-
-  - Télécharger un fichier `auto-mpg.csv`,
+  - Télécharger le jeu de données `auto-mpg.csv`,
   
   - Vérifiez sa conformité avec le fichier qui a été utilisé dans ce projet,
 
