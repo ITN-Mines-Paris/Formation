@@ -1,0 +1,20 @@
+# Pixi 
+.pixi
+
+# Python
+**/__pycache__
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Datasets
+datasets/*.csv
+datasets/*.parquet
+
+# Images
+images/*.png
+
+# Documents
+notebook.ipynb
+*.html
+*.pdf
