@@ -1,6 +1,6 @@
 # Auto-mpg
 
-Pour générer l'article au formats PDF et HTML de ce projet :
+Pour produire l'article (aux formats PDF et HTML) de ce projet :
 
 1. Installez une version récente du gestionnaire de paquets [pixi].
 
