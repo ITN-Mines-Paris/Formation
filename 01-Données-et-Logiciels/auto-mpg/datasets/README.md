@@ -7,6 +7,6 @@ Tapez `pixi run fetch` pour :
   
   - Vérifiez sa conformité avec le fichier qui a été utilisé dans ce projet,
 
-  - Produire un ficher "nettoyé" `auto-mpq.parquet` au format [Apache Parquet].
+  - Produire un ficher "nettoyé" `auto-mpg.parquet` au format [Apache Parquet].
 
 [Apache Parquet]: https://parquet.apache.org/ 
