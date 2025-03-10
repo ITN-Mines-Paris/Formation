@@ -1,7 +1,7 @@
 # Bibliographie
 
 
-ℹ️ La bibliographie est dans le format [CSL-JSON](https://github.com/citation-style-language/schema?tab=readme-ov-file#csl-json-schema).
+La bibliographie est dans le format [CSL-JSON](https://github.com/citation-style-language/schema?tab=readme-ov-file#csl-json-schema).
 
 Pour les jeux de données : 
 
@@ -10,7 +10,7 @@ Pour les jeux de données :
         "URL": "https://archive.ics.uci.edu/static/public/9/data.csv"
  
   - La somme de contrôle associée et l'algorithme utilisé sont fournis
-    dans l'attribut personnalisé `checksum`, par exemple :   
+    dans l'attribut personnalisé `checksum`, de la façon suivante :   
 
         "custom": {
             "checksum": {
